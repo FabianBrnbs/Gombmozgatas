@@ -1,0 +1,10 @@
+S:\Fábián Barnabás 11.P\gombmozgatas09.22\gombmozgatas09.22\bin\Debug\gombmozgatas09.22.exe.config
+S:\Fábián Barnabás 11.P\gombmozgatas09.22\gombmozgatas09.22\bin\Debug\gombmozgatas09.22.exe
+S:\Fábián Barnabás 11.P\gombmozgatas09.22\gombmozgatas09.22\bin\Debug\gombmozgatas09.22.pdb
+S:\Fábián Barnabás 11.P\gombmozgatas09.22\gombmozgatas09.22\obj\Debug\gombmozgatas09._22.Form1.resources
+S:\Fábián Barnabás 11.P\gombmozgatas09.22\gombmozgatas09.22\obj\Debug\gombmozgatas09._22.Properties.Resources.resources
+S:\Fábián Barnabás 11.P\gombmozgatas09.22\gombmozgatas09.22\obj\Debug\gombmozgatas09.22.csproj.GenerateResource.cache
+S:\Fábián Barnabás 11.P\gombmozgatas09.22\gombmozgatas09.22\obj\Debug\gombmozgatas09.22.csproj.CoreCompileInputs.cache
+S:\Fábián Barnabás 11.P\gombmozgatas09.22\gombmozgatas09.22\obj\Debug\gombmozgatas09.22.exe
+S:\Fábián Barnabás 11.P\gombmozgatas09.22\gombmozgatas09.22\obj\Debug\gombmozgatas09.22.pdb
+S:\Fábián Barnabás 11.P\gombmozgatas09.22\gombmozgatas09.22\obj\Debug\gombmozgatas09.22.csproj.AssemblyReference.cache
