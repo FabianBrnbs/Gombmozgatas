@@ -1,0 +1,10 @@
+D:\Fábián Barnabás 11.P\menurendszer\bin\Debug\menurendszer.exe.config
+D:\Fábián Barnabás 11.P\menurendszer\bin\Debug\menurendszer.exe
+D:\Fábián Barnabás 11.P\menurendszer\bin\Debug\menurendszer.pdb
+D:\Fábián Barnabás 11.P\menurendszer\obj\Debug\menurendszer.csproj.AssemblyReference.cache
+D:\Fábián Barnabás 11.P\menurendszer\obj\Debug\menurendszer.Form1.resources
+D:\Fábián Barnabás 11.P\menurendszer\obj\Debug\menurendszer.Properties.Resources.resources
+D:\Fábián Barnabás 11.P\menurendszer\obj\Debug\menurendszer.csproj.GenerateResource.cache
+D:\Fábián Barnabás 11.P\menurendszer\obj\Debug\menurendszer.csproj.CoreCompileInputs.cache
+D:\Fábián Barnabás 11.P\menurendszer\obj\Debug\menurendszer.exe
+D:\Fábián Barnabás 11.P\menurendszer\obj\Debug\menurendszer.pdb
