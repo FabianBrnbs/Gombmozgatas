@@ -1,0 +1,10 @@
+D:\Fábián Barnabás 11.P\menustri\bin\Debug\menustri.exe.config
+D:\Fábián Barnabás 11.P\menustri\bin\Debug\menustri.exe
+D:\Fábián Barnabás 11.P\menustri\bin\Debug\menustri.pdb
+D:\Fábián Barnabás 11.P\menustri\obj\Debug\menustri.csproj.AssemblyReference.cache
+D:\Fábián Barnabás 11.P\menustri\obj\Debug\menustri.Form1.resources
+D:\Fábián Barnabás 11.P\menustri\obj\Debug\menustri.Properties.Resources.resources
+D:\Fábián Barnabás 11.P\menustri\obj\Debug\menustri.csproj.GenerateResource.cache
+D:\Fábián Barnabás 11.P\menustri\obj\Debug\menustri.csproj.CoreCompileInputs.cache
+D:\Fábián Barnabás 11.P\menustri\obj\Debug\menustri.exe
+D:\Fábián Barnabás 11.P\menustri\obj\Debug\menustri.pdb
